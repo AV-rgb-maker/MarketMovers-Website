@@ -1,2 +1,0 @@
-# MarketMovers-Website
-MarketMovers Website
